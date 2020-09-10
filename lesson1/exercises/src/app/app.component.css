@@ -1,0 +1,24 @@
+.favLinks{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.contentDiv{
+
+    padding-top: 10%;
+}
+
+.row{
+    padding-top: 10%;
+    border:black;
+    border:inset;
+}
+
+.titleDiv{
+    padding-bottom: 10%;
+}
+/* .container{
+    
+    border:inset;
+    border-block: initial;
+} */
